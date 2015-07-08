@@ -10,4 +10,4 @@ This application can re-indent you rexisting codebase to match the awesome style
 
 ###Example Output
 
-[See our tests output for an example of HT Style](https://github.com/technion/htstyle/blob/master/tests/example_output.c).
+[See our tests output for an example of HT Style](https://github.com/technion/htstyle/blob/master/spec/example_output.c).

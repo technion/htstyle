@@ -17,3 +17,6 @@ Style/GlobalVars:
 Metrics/AbcSize:
   Max: 17
 
+AllCops:
+  Exclude:
+    - '*.gemspec'
