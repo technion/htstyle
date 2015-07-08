@@ -5,7 +5,7 @@ require 'version'
 Gem::Specification.new do |spec|
   spec.name          = "HTStyle"
   spec.version       = HTStyle::VERSION
-  spec.authors       = ["Joshua Small"]
+  spec.authors       = ["Technion"]
   spec.email         = ["technion@lolware.net"]
   spec.summary       = %q{Implements Hack Team code style}
   spec.description   = %q{Implements Hack Team code style}
