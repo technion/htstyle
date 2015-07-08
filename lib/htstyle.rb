@@ -1,6 +1,8 @@
+# Main re-indent module for HTStyle. See https://github.com/technion/htstyle
 module HTStyle
   module_function
-  def indenter(handle=STDIN)
+
+  def indenter(handle = STDIN)
     accum = 0
     handle.each_line do |line|
       line.lstrip!

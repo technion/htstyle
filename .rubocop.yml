@@ -10,3 +10,10 @@
 # Configuration parameters: EnforcedStyle, SupportedStyles.
 Style/StringLiterals:
   Enabled: false
+
+Style/GlobalVars:
+  Exclude:
+    - 'spec/*'
+Metrics/AbcSize:
+  Max: 17
+
