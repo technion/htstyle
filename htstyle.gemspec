@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.version       = HTStyle::VERSION
   spec.authors       = ["Technion"]
   spec.email         = ["technion@lolware.net"]
-  spec.summary       = %q{Implements Hack Team code style}
+  spec.summary       = %q{Implements Hacking Team code style}
   spec.description   = %q{Implements Hack Team code style}
   spec.homepage      = "https://github.com/technion/htstyle"
   spec.license       = "BSD"
