@@ -16,4 +16,4 @@ This is now a published gem.
 
 [See our tests output for an example of HT Style](https://github.com/technion/htstyle/blob/master/spec/example_output.c).
 
-![Build Status](https://travis-ci.org/technion/htstyle.svg)
+![Build Status](https://api.travis-ci.org/technion/htstyle.svg?branch=master)
